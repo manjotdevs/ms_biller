@@ -1,8 +1,26 @@
+*{
+   margin: 0;
+   padding: 0;
+}
 .ms{
     color: red;
     text-align: center;
+    font-size:40px;
 }
 
-.h{
-    color:blue;
+.formating{
+  float: right;
+  background-color: lightblue; 
+  padding: 10px;
+  display:row;
+}
+
+.bill_type{
+
+
+}
+
+.bill_size{
+
+
 }
