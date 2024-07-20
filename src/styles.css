@@ -7,32 +7,43 @@
     color: red;
     text-align: center;
     font-size:40px;
-    font-width: 12px;
+    
 }
 
 .formating{
   float: right;
-  background-color: lightblue; 
   padding: 20px;
   display:flex;
 }
 
 .bill_type{
   padding: 20px;
+  align-items:center;
 
 }
 
 .bill_type_text{
   font-size:20px;
   color: red;
-
 }
 
 .bill_select{
+  height: 35px; 
   padding: 20px;
-
+  width: 90px;
+  display: flex;
+  align-items: center;
 }
 
 .bill_type_select{
-  padding: 2px;
+  height: 100%; 
+  width: 100%;
+  font-size: 12px; 
+  padding: 8px;
+  border-radius:12px;
+}
+
+.detail div{
+  display: flex;
+
 }
