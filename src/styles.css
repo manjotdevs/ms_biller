@@ -43,7 +43,37 @@
   border-radius:12px;
 }
 
-.detail div{
+.detail{
+  padding: 20px;
+  padding-bottom: 12px;
+}
+ 
+.detail_name{
   display: flex;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.orginaction{
+}
+
+.orginaction_input{
+  margin-left: 20px;
+}
+
+.detail_address{
+  display: flex;
+  padding: 10px;
+}
+
+.detail_phone{
+  display: flex;
+  padding: 10px;
+}
+
+.detail_code{
+  display: flex;
+  padding: 10px;
 
 }
+
