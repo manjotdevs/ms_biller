@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
+    "pdfkit": "^0.15.0",
     "postcss": "^8.4.39"
   }
 }
